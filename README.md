@@ -45,3 +45,12 @@ Through meticulous implementation and adherence to AUTOSAR standards, this proje
 delivers a robust and efficient framework for developing embedded systems, ensuring 
 compatibility, reliability, and scalability.
 ______________________________________________________________________________________________________________
+Files Structure:
+
+Port Driver File Structure:
+![alt text](PORT_Driver_File_structure.png)
+______________________________________________________________________________________________________________
+
+Dio Driver File Structure:
+![alt text](DIO_Driver_File_structure.png)
+______________________________________________________________________________________________________________
