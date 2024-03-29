@@ -2,12 +2,12 @@
  Full layered architecture AUTOSAR Project using SWS 4.0.3
 ______________________________________________________________________________________________________________
 
- ![alt text](AUTOSAR.png)
+ ![alt text](E:\Projects\AUTOSAR-Project\README_IMGS\AUTOSAR.png)
 ______________________________________________________________________________________________________________
 
  Project Architecture:
 
- ![alt text](ProjectArchitecture.png)
+ ![alt text](E:\Projects\AUTOSAR-Project\README_IMGS\ProjectArchitecture.png)
 
 ______________________________________________________________________________________________________________
 Project Description:
@@ -48,9 +48,9 @@ ________________________________________________________________________________
 Files Structure:
 
 Port Driver File Structure:
-![alt text](PORT_Driver_File_structure.png)
+![alt text](E:\Projects\AUTOSAR-Project\README_IMGS\PORT_Driver_File_structure.png)
 ______________________________________________________________________________________________________________
 
 Dio Driver File Structure:
-![alt text](DIO_Driver_File_structure.png)
+![alt text](E:\Projects\AUTOSAR-Project\README_IMGS\DIO_Driver_File_structure.png)
 ______________________________________________________________________________________________________________
