@@ -5,4 +5,4 @@
 
  Project Architecture:
 
- ![alt text](Project Architecture.png)
+ ![alt text](ProjectArchitecture.png)
