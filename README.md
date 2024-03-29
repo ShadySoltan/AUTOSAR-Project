@@ -2,7 +2,7 @@
  Full layered architecture AUTOSAR Project using SWS 4.0.3
 ______________________________________________________________________________________________________________
 
- ![alt text](E:/Projects/AUTOSAR-Project/README_IMGS/AUTOSAR.png)
+ ![plot](E:/Projects/AUTOSAR-Project/README_IMGS/AUTOSAR.png)
 ______________________________________________________________________________________________________________
 
  Project Architecture:
